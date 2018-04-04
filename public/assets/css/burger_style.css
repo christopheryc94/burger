@@ -1,0 +1,28 @@
+body {
+	background-color: #FFD700;
+	margin-left: 33%;
+}
+
+#logo {
+	display: block;
+    height: 300px;
+    width: 450px;
+}
+
+#title {
+	margin: 0 auto;
+	text-orientation: center;
+}
+
+.col-md-4 {
+	text-orientation: center;
+	float: left;
+}
+
+.col-md-6 {
+	clear: both;
+	text-orientation: center;
+	float: left;
+}
+
+
